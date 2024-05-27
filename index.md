@@ -32,7 +32,7 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
     <tr>
         <td>
             <center>
-                <img src="assets/motion2music/dance/concatenated.gif"
+                <img src="assets/motion2music/dance/concatenated.gif">
             </center>
         </td>
     </tr>
