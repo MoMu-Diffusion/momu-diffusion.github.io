@@ -46,16 +46,11 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
 </center>
 <table>
     <tr>
-        <!-- <td>
-            <center>
-                <img src="assets/motion2music/fe/video.gif" width="600" height="300"/>
-            </center>
-        </td>
         <td>
             <center>
-                <img src="assets/motion2music/fe/motion_to_music.gif" width="600" height="300"/>
+                <img src="assets/motion2music/fe/concatenated.gif">
             </center>
-        </td> -->
+        </td>
     </tr>
 </table>
 
@@ -67,15 +62,10 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
 </center>
 <table>
     <tr>
-        <!-- <td>
-            <center>
-                <img src="assets/motion2music/fs/video.gif" width="300" height="150"/>
-            </center>
-        </td>
         <td>
             <center>
-                <img src="assets/motion2music/fs/motion_to_music.gif" width="400" height="150"/>
+                <img src="assets/motion2music/fs/concatenated.gif">
             </center>
-        </td> -->
+        </td>
     </tr>
 </table>
