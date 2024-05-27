@@ -69,3 +69,53 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
         </td>
     </tr>
 </table>
+
+
+## Music to Motion
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/1/video_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/1/concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/11/video_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/11/concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/75/video_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/75/concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
