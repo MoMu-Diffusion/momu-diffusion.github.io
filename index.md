@@ -24,7 +24,7 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
 ## Motion to Music
 <center>
 <video width="400" height="250" controls>
-  <source src="assets/motion2music/dance/video_with_new_audio.mp4" type="video/mp4">
+  <source src="assets/motion2music/dance/3_with_new_audio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </center>
@@ -32,7 +32,7 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
     <tr>
         <td>
             <center>
-                <img src="assets/motion2music/dance/concatenated.gif">
+                <img src="assets/motion2music/dance/3_concatenated.gif">
             </center>
         </td>
     </tr>
@@ -40,7 +40,7 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
 
 <center>
 <video width="400" height="250" controls>
-  <source src="assets/motion2music/fe/video_with_new_audio.mp4" type="video/mp4">
+  <source src="assets/motion2music/dance/62_with_new_audio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </center>
@@ -48,73 +48,7 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
     <tr>
         <td>
             <center>
-                <img src="assets/motion2music/fe/concatenated.gif">
-            </center>
-        </td>
-    </tr>
-</table>
-
-<center>
-<video width="400" height="250" controls>
-  <source src="assets/motion2music/fs/video_with_new_audio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</center>
-<table>
-    <tr>
-        <td>
-            <center>
-                <img src="assets/motion2music/fs/concatenated.gif">
-            </center>
-        </td>
-    </tr>
-</table>
-
-
-## Music to Motion
-<center>
-<video width="400" height="250" controls>
-  <source src="assets/music2motion/1/video_with_new_audio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</center>
-<table>
-    <tr>
-        <td>
-            <center>
-                <img src="assets/music2motion/1/concatenated.gif">
-            </center>
-        </td>
-    </tr>
-</table>
-
-<center>
-<video width="400" height="250" controls>
-  <source src="assets/music2motion/11/video_with_new_audio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</center>
-<table>
-    <tr>
-        <td>
-            <center>
-                <img src="assets/music2motion/11/concatenated.gif">
-            </center>
-        </td>
-    </tr>
-</table>
-
-<center>
-<video width="400" height="250" controls>
-  <source src="assets/music2motion/75/video_with_new_audio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</center>
-<table>
-    <tr>
-        <td>
-            <center>
-                <img src="assets/music2motion/75/concatenated.gif">
+                <img src="assets/motion2music/dance/62_concatenated.gif">
             </center>
         </td>
     </tr>
