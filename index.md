@@ -53,3 +53,198 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
         </td>
     </tr>
 </table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/motion2music/fe/fe1_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/motion2music/fe/fe1_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/motion2music/fe/fe2_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/motion2music/fe/fe2_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/motion2music/fs/fs1_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/motion2music/fs/fs1_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/motion2music/fs/fs2_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/motion2music/fe/fe2_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+
+## Music to Motion
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/6_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/6_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/9_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/9_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/16_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/16_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/21_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/21_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/32_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/32_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/music2motion/46_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/music2motion/46_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+## Joint Generation
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/joint/0_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/joint/0_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
+
+<center>
+<video width="400" height="250" controls>
+  <source src="assets/joint/4_with_new_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
+<table>
+    <tr>
+        <td>
+            <center>
+                <img src="assets/joint/4_concatenated.gif">
+            </center>
+        </td>
+    </tr>
+</table>
