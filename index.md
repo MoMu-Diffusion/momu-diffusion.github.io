@@ -112,7 +112,7 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
     <tr>
         <td>
             <center>
-                <img src="assets/motion2music/fe/fe2_concatenated.gif">
+                <img src="assets/motion2music/fs/fs2_concatenated.gif">
             </center>
         </td>
     </tr>
