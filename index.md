@@ -24,7 +24,7 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
 ## Motion to Music
 <center>
 <video width="400" height="250" controls>
-  <source src="assets/motion2music/dance/3_with_new_audio.mp4" type="video/mp4">
+  <source src="assets/motion2music/dance/new_with_new_audio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </center>
@@ -32,7 +32,7 @@ An overview of the proposed MoMu-Diffusion framework. MoMu-Diffusion contains tw
     <tr>
         <td>
             <center>
-                <img src="assets/motion2music/dance/3_concatenated.gif">
+                <img src="assets/motion2music/dance/concatenated.gif">
             </center>
         </td>
     </tr>
